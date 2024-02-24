@@ -1,13 +1,20 @@
 ### Hi there I'm Abdullah Hassan, a Sudanese Junior iOS Developer !
 
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
 
 - 🔭 currently working on my first iOS App.
-<img alt = "Swift" src = "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 
-You can find Me at X<a href="https://twitter.com/iAddallah_">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X.com">
-    </a>
+## 🤝 Connect with me: 
 
+<a href="https://twitter.com/iAddallah_"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="Yu Shi | LinkedIn" width="21px"/>
+
+</br>
+</br>
+
+## 📈 GitHub Stats 
+[![Addalah github stats](https://github-readme-stats.vercel.app/api?username=Addallah)](https://github.com/Addallah)
 <!--
 **Addallah/Addallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +28,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+

@@ -4,11 +4,11 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
-- 🔭 currently working on my first iOS App.
+-  currently working on my first iOS App.
 
 ## 🤝 Connect with me: 
 
-<a href="https://twitter.com/iAddallah_"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="Yu Shi | LinkedIn" width="21px"/>
+<a href="https://twitter.com/iAddallah_"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="21px"/>
 
 </br>
 </br>

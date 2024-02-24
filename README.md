@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there I'm Abdullah Hassan, a Sudanese Junior iOS Developer !
 
+
+- 🔭 currently working on my first iOS App.
 <img alt = "Swift" src = "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+
+You can find Me at X <a href = "https://twitter.com/iAddallah_"/>
 
 <!--
 **Addallah/Addallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

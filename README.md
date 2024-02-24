@@ -4,7 +4,9 @@
 - 🔭 currently working on my first iOS App.
 <img alt = "Swift" src = "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 
-You can find Me at X <a href = "https://twitter.com/iAddallah_"/>
+You can find Me at X<a href="https://twitter.com/iAddallah_">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X.com">
+    </a>
 
 <!--
 **Addallah/Addallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

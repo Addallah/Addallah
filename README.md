@@ -1,3 +1,7 @@
+![Twitter Header Placeholder](https://github.com/Addallah/Addallah/assets/93667302/ac62b332-5998-40c0-9853-a6681fb35c79)
+
+
+
 ### Hi there I'm Abdullah Hassan, a Sudanese Junior iOS Developer !
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)

@@ -2,7 +2,7 @@
 
 
 
-### Hi there I'm Abdullah Hassan, a Sudanese Junior iOS Developer !
+### Hi there I'm Abdullah Hassan, a Junior iOS Developer from Sudan 🇸🇩 !
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="30px">
